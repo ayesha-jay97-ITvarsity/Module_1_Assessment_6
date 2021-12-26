@@ -1,0 +1,116 @@
+a{                                             
+    font-family     : Tahoma;
+    text-decoration : none;                   
+    color: black;                              
+    padding         : 5px;
+    padding-top: 0px;
+    font-weight: bold;
+    font-size:20px;			  
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;   
+    color: rgb(245, 96, 245)
+}
+
+h6{
+    font-family: Tahoma;    
+    color: rgb(245, 96, 245);
+    font-size: medium;
+    padding-bottom: 0%;
+}
+
+.logo {
+    padding-left: 40%;
+}
+
+img{
+    padding-left:7%;
+    padding-bottom: 3%;
+}
+
+p{
+  font-family: Tahoma;
+}
+
+#menu {
+    padding:15px;
+    width: 100%;
+    background-color: rgb(245, 96, 245);
+    color: white;
+}
+
+#menu a:hover{	
+    text-decoration: underline;	
+    color: white;
+}
+
+table{
+    font-family: Tahoma;
+    border-color: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(245, 96, 245);
+    border-collapse: collapse;
+    padding: 50%;    
+    text-align: center;
+}
+
+thead{
+    background-color: rgb(219, 30, 210);
+    color: white;    
+}
+
+th{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#sizes td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+.gallery img{
+    padding-bottom: 5%;    
+}
+
+#about h1{
+    text-align: center;
+}
+
+#buy a{
+    text-decoration : none;
+    color           : white;
+    font-weight     : bolder;
+    font-size       : 16px;
+    font-family     : Tahoma;
+    
+    background-image : url('images/menu_button.gif');
+    background-repeat: no-repeat;
+    display          : block;
+    width            : 128px;
+    height           : 41px;
+    padding-left     : 26.5px;
+    padding-top      : 10px;
+    float            : left;
+}
+
+#buy a:hover{
+  background-image: url('images/menu_button_hover.gif');
+  color           :aqua;
+}
+
+p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form{
+    font-family: Tahoma;
+}
+
+#subject {
+    height:200px;
+    width: 90%;
+}
